@@ -123,7 +123,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://www.pngwing.com/en/free-png-ahmat",
+          "https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png",
       },
     ],
   },
