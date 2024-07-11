@@ -136,7 +136,7 @@ export const experiences = [
     role: "Fullstack Developer Intern",
     company: "Pirates Alert",
     date: "Aug 2023 - Oct 2023",
-    desc: "Independently designed and developed the frontend using Material UI and React, incorporating AJAX for asynchronous data retrieval. Employed Node.js and Express.js to create REST APIs, seamlessly connecting with a MySQL database. Implemented robust backend solutions, optimizing data interaction and overall system functionality. Engaged in thorough troubleshooting and optimization for a refined end product.",
+    desc: "Independently designed and developed a fullstack web application using Material UI and React, incorporating AJAX for asynchronous data retrieval. Employed Node.js and Express.js to create REST APIs, seamlessly connecting with a MySQL database. Implemented robust backend solutions, optimizing data interaction and overall system functionality. Engaged in thorough troubleshooting and optimization for a refined end product.",
     skills: [
       "React Js",
       "Material UI",
