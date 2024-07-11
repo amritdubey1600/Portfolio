@@ -103,7 +103,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dgit%2BLogo&psig=AOvVaw3B2hO85fbZ9acIhKHbyIyp&ust=1720818455903000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCs57nyn4cDFQAAAAAdAAAAABAE",
+          "https://e7.pngegg.com/pngimages/685/833/png-clipart-red-sign-logo-git-logo-icons-logos-emojis-tech-companies-thumbnail.png",
       },
       {
         name: "GitHub",
