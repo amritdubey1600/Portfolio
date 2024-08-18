@@ -9,7 +9,7 @@ export const Bio = {
     "I'm a motivated and adaptable individual with a passion for learning, committed to delivering top-notch results. Armed with a positive attitude and a growth mindset, I'm poised to make a meaningful contribution and achieve greatness.",
   github: "https://leetcode.com/u/amritdubey22003/",
   resume:
-    "https://drive.google.com/file/d/1DF0Rm3KNoqI0jjoeL3ePaJH-EN-G5YCa/view?usp=sharing",
+    "https://drive.google.com/file/d/1gydVsIRWicKV5KOygqIErLJJEBFRhNfS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/amrit-dubey-75449b262/",
 };
 
